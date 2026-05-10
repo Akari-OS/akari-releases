@@ -1,0 +1,40 @@
+Copyright (c) 2025-2026 Ryoma Nakajima / KYO-kobo
+
+All rights reserved.
+
+This repository hosts AKARI binary release artifacts (.dmg, .exe,
+.AppImage, etc.) for distribution to invited beta participants and,
+in the future, public end users.
+
+Each release artifact is licensed to end users under the AKARI Beta
+End User License Agreement (EULA), distributed alongside the
+application or available via the AKARI official site at
+<https://akari-oss.app>.
+
+No part of these binaries may be:
+
+  - reverse-engineered, decompiled, or disassembled,
+  - redistributed, sublicensed, or resold,
+  - repackaged, rebranded, or used to create derivative products,
+
+in any form, without prior written permission from the copyright
+holder.
+
+The trademarks "AKARI", "AKARI OS", and the AKARI logo are owned
+by KYO-kobo / Ryoma Nakajima. Use of these trademarks requires
+prior written permission.
+
+For licensing inquiries: services@kyo-kobo.com
+
+---
+
+The source code of AKARI components is governed by separate licenses:
+
+  - Akari-OS/shell        — Apache License 2.0 (when published)
+  - Akari-OS/sdk          — MIT License
+  - Akari-OS/m2c, /amp,
+    /ace                  — Apache License 2.0
+  - Akari-OS/.github      — CC BY 4.0 (documentation only)
+  - Akari-OS/cloud, /lp   — proprietary (All rights reserved)
+
+See <https://github.com/Akari-OS> for component-specific licensing.
